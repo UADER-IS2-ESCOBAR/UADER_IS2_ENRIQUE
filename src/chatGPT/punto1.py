@@ -1,7 +1,7 @@
 import sys
 import openai
 
-# Definir el buffer para almacenar las consultas y respuestas
+# Definir el buffer para almacenar las consultas y respuesta
 buffer_conversacion = []
 
 # Definir la función para verificar el texto
